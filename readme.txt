@@ -5,4 +5,8 @@ Git tracks changes of files
 create branch test & simple
 create bra
 add merge
-dev
+de
+dev1
+dev2
+Git is a free software
+
