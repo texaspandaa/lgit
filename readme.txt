@@ -1,4 +1,4 @@
 Git is a dist version control system.
 Git is free softwareby GPL.
 update
-Git tracks changes
+Git tracks changes of files
