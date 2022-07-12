@@ -4,5 +4,8 @@ update
 Git tracks changes of files
 create branch test & simple
 create branch test
+<<<<<<< HEAD
 add merge
 
+=======
+>>>>>>> dev
